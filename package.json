@@ -1,0 +1,27 @@
+{
+  "name": "dsi-practica11-bis-ejercicios-pe103",
+  "version": "1.0.0",
+  "description": "## Alberto Mendoza Rodríguez (alu0101217741)",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \"node dist/index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0101217741/DSI-Practica11-bis-Ejercicios-PE103.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0101217741/DSI-Practica11-bis-Ejercicios-PE103/issues"
+  },
+  "homepage": "https://github.com/alu0101217741/DSI-Practica11-bis-Ejercicios-PE103#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.24.0",
+    "@typescript-eslint/parser": "^4.24.0",
+    "eslint": "^7.26.0",
+    "eslint-config-google": "^0.14.0",
+    "tsc-watch": "^4.2.9"
+  }
+}
